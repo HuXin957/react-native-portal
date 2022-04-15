@@ -1,0 +1,14 @@
+{
+  "name": "@huxin957/react-native-portal",
+  "version": "1.0.0",
+  "description": "portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portal"
+  ],
+  "author": "huxin957",
+  "license": "ISC"
+}
