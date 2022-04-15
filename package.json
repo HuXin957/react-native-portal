@@ -2,6 +2,7 @@
   "name": "@huxin957/react-native-portal",
   "version": "1.0.0",
   "description": "portal",
+  "homepage": "https://github.com/HuXin957/react-native-portal",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +10,10 @@
   "keywords": [
     "portal"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuXin957/react-native-portal.git"
+  },
   "author": "huxin957",
   "license": "ISC"
 }
